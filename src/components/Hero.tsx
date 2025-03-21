@@ -10,26 +10,24 @@ const Hero = () => {
           <div className="reveal-animation space-y-6 max-w-2xl">
             <div className="inline-block animate-fade-in">
               <span className="bg-primary/10 text-primary px-4 py-1.5 rounded-full text-sm font-semibold">
-                Business Analytics Tool
+              Herramienta de análisis empresarial
               </span>
             </div>
             
             <h1 className="text-4xl md:text-5xl xl:text-6xl font-bold leading-tight animate-fade-in text-balance">
-              Visualize and optimize your business profitability in real time
+            Optimiza La Rentabilidad De Tu Negocio En Minutos
             </h1>
             
             <p className="text-lg md:text-xl text-foreground/80 animate-fade-in text-balance">
-              Get clear reports on your profit margins and make smarter decisions without needing to be an accounting expert.
-            </p>
+            Reduce el tiempo de análisis financiero, visualiza tus márgenes de ganancia en segundos y toma decisiones más inteligentes sin necesidad de conocimientos contables avanzados.
+              </p>
             
             <div className="flex flex-col sm:flex-row gap-4 pt-2 animate-fade-in">
               <Button size="lg" className="group">
-                Start Free Trial
+                Ingresa Aquí
                 <ChevronRight className="ml-2 h-4 w-4 transition-transform group-hover:translate-x-1" />
               </Button>
-              <Button size="lg" variant="outline">
-                See Demo
-              </Button>
+              
             </div>
             
             <div className="pt-6 grid grid-cols-1 sm:grid-cols-3 gap-6 animate-fade-in">
