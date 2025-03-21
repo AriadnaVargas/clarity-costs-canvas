@@ -32,15 +32,12 @@ const Navbar = () => {
           {/* Desktop Menu */}
           <nav className="hidden md:flex items-center space-x-8">
             <a href="#features" className="underline-link font-medium text-foreground/80 hover:text-foreground transition-colors">
-              Features
+              Funcionalidades
             </a>
             <a href="#benefits" className="underline-link font-medium text-foreground/80 hover:text-foreground transition-colors">
-              Benefits
+              Beneficios
             </a>
-            <a href="#pricing" className="underline-link font-medium text-foreground/80 hover:text-foreground transition-colors">
-              Pricing
-            </a>
-            <Button className="ml-4">Get Started</Button>
+            <Button className="ml-4">Log In</Button>
           </nav>
           
           {/* Mobile menu button */}

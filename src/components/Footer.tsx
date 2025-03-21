@@ -14,7 +14,7 @@ const Footer = () => {
                 <span className="text-primary">Profit</span>Metrics
               </h3>
               <p className="text-foreground/70 mb-6 max-w-md">
-                Helping small businesses visualize cost metrics and optimize profitability with intuitive, actionable insights.
+              Ayudamos a las pequeñas empresas a visualizar las métricas de costos y optimizar la rentabilidad con información intuitiva y práctica.
               </p>
               <div className="flex space-x-4">
                 <a href="#" className="text-foreground/60 hover:text-primary transition-colors">
@@ -48,14 +48,10 @@ const Footer = () => {
             <ul className="space-y-2">
               <li>
                 <a href="#features" className="text-foreground/70 hover:text-primary text-sm transition-colors">
-                  Features
+                  Funcionalidades
                 </a>
               </li>
-              <li>
-                <a href="#pricing" className="text-foreground/70 hover:text-primary text-sm transition-colors">
-                  Pricing
-                </a>
-              </li>
+              
               <li>
                 <a href="#" className="text-foreground/70 hover:text-primary text-sm transition-colors">
                   Testimonials

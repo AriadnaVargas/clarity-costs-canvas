@@ -33,15 +33,15 @@ const Hero = () => {
             <div className="pt-6 grid grid-cols-1 sm:grid-cols-3 gap-6 animate-fade-in">
               <div className="flex items-center gap-2">
                 <TrendingUp className="h-5 w-5 text-primary" />
-                <span className="text-sm font-medium">30% Time Saving</span>
+                <span className="text-sm font-medium">30% Ahorro de tiempo</span>
               </div>
               <div className="flex items-center gap-2">
                 <DollarSign className="h-5 w-5 text-primary" />
-                <span className="text-sm font-medium">Clear Metrics</span>
+                <span className="text-sm font-medium">Metricas claras</span>
               </div>
               <div className="flex items-center gap-2">
                 <Clock className="h-5 w-5 text-primary" />
-                <span className="text-sm font-medium">Real-time Data</span>
+                <span className="text-sm font-medium">Datos en tiempo real</span>
               </div>
             </div>
           </div>
